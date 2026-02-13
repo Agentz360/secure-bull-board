@@ -1,6 +1,7 @@
 {
   "LOADING": "Loading...",
   "MENU": {
+    "OVERVIEW": "Overview",
     "QUEUES": "QUEUES",
     "SEARCH_INPUT_PLACEHOLDER": "Filter queues",
     "PAUSED": "Paused"
@@ -60,7 +61,8 @@
       "DATA": "Data",
       "OPTIONS": "Options",
       "LOGS": "Logs",
-      "ERROR": "Error"
+      "ERROR": "Error",
+      "TIMELINE": "Timeline"
     }
   },
   "QUEUE": {
